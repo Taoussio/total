@@ -1,0 +1,6 @@
+[submodule "first-cicd"]
+	path = first-cicd
+	url = https://github.com/Taoussio/first-cicd.git
+[submodule "second-cicd"]
+	path = second-cicd
+	url = https://github.com/Taoussio/second-cicd.git
